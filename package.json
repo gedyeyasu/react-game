@@ -1,6 +1,6 @@
 {
   "homepage": "http://gedyeyasu.github.io/react-game",
-  "name": "frontend",
+  "name": "react-game",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
