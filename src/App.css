@@ -1,0 +1,31 @@
+body{
+  background: rgb(54, 217, 182);
+  background: linear-gradient(90deg, rgb(54, 217, 182,1) 0%, rgb(32, 152, 126,  1));
+  font-family: sans-serif;
+}
+.container{
+  max-width: 600px;
+  margin: 0 auto;
+  box-shadow: 0 14px 28px rgb(0, 0, 0, 25), 0 10px 10px rgb(0, 0, 0, 0, 22);
+  background-color: #fff;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  justify-content: space-around;
+  align-items: flex-start ;
+  padding-bottom: 10px;
+
+}
+#score {
+  font-size: large;
+}
+#problem {
+  font-size: 70px;
+}
+#winner{
+  font-size: 72px;
+  color: green;
+}
+#countdown{
+  justify-content: end;
+  align-content: center;
+}
